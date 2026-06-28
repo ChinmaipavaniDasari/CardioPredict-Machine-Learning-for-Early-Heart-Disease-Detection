@@ -143,10 +143,3 @@ The models were evaluated using:
 * Flask/Streamlit Web Application
 * Model Deployment on Cloud
 * Explainable AI using SHAP/LIME
-
-
----
-
-## 📄 License
-
-This project is intended for educational and learning purposes.
